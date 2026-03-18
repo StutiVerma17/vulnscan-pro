@@ -13,3 +13,15 @@ Web Application Vulnerability Scanning, Risk Evaluation & Alert System
 5. Run all the cells
 
 6. Open http://localhost:8501
+
+# Libraries Used
+ streamlit
+ plotly
+ pandas
+ requests
+ python-dotenv
+ namp
+ smtplib
+
+# AI Tools Used
+ChatGPT for structuring and assistance
